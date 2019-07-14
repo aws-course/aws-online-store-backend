@@ -1,7 +1,13 @@
-# Online Store backend written on Node js
+# Online Store Backend
+
+Source code for AWS course
 
 ### Launch
-* `npm install`\
-`npm start`
 
-* Clone [webapp repo](https://github.com/vadimkorr/vuetiful-online-store-webapp) and follow instructions
+1. Install dependencies:\
+   `yarn install` or `npm install`
+
+2. Run:\
+   `yarn start` or `npm start`
+
+3. Clone [Online Store Frontend repo](https://github.com/aws-course/aws-online-store-frontend) and follow instructions
