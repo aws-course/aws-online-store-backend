@@ -1,7 +1,7 @@
 {
   "swaggerDefinition": {
     "info": {
-      "description": "Vuetiful online store backend",
+      "description": "AWS course online store backend",
       "title": "Swagger",
       "version": "1.0.0"
     },

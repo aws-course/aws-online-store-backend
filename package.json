@@ -1,7 +1,7 @@
 {
-  "name": "vuetiful-online-store-backend",
+  "name": "aws-online-store-backend",
   "version": "1.0.0",
-  "description": "Node.js backend for vuetiful-online-store",
+  "description": "A Node.js online store backend for AWS course",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vadimkorr/vuetiful-online-store-backend.git"
+    "url": "git+https://github.com/aws-course/aws-online-store-backend.git"
   },
   "keywords": [
     "node.js",
@@ -18,9 +18,9 @@
   "author": "Vadim Korr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vadimkorr/vuetiful-online-store-backend/issues"
+    "url": "https://github.com/aws-course/aws-online-store-backend/issues"
   },
-  "homepage": "https://github.com/vadimkorr/vuetiful-online-store-backend#readme",
+  "homepage": "https://github.com/aws-course/aws-online-store-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",

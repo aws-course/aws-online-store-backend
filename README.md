@@ -15,8 +15,9 @@ Source code for AWS course
 ### Usage
 
 Test accounts:
-|Login|Password|
-|-----|--------|
-|user1|P@ssw0rd|
-|user2|P@ssw0rd|
-|admin1|P@ssw0rd|
+
+| Login    | Password |
+| -------- | -------- |
+| user1    | P@ssw0rd |
+| user2    | P@ssw0rd |
+| admin1   | P@ssw0rd |
